@@ -12,7 +12,7 @@ export default function Home() {
     <ColorModeContext.Provider value={colorMode}>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <div className="mainpage">
+        <div className="app">
           <Sidebar />
           <main className="content">
             <Topbar />

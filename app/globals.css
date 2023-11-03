@@ -10,7 +10,7 @@ body,
   font-family: "Source Sans 3", sans-serif;
 }
 
-.mainpage {
+.app {
   display: flex;
   position: relative;
 }
