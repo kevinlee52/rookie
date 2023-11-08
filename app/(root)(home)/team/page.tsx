@@ -9,7 +9,7 @@ import LockOpenOutlinedIcon from "@mui/icons-material/LockOpenOutlined";
 import SecurityOutlinedIcon from "@mui/icons-material/SecurityOutlined";
 import Header from "@/components/shared/Header";
 
-const Dashboard = () => {
+const Team = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
   const columns = [
@@ -101,7 +101,7 @@ const Dashboard = () => {
   );
 };
 
-export default Dashboard;
+export default Team;
 
 // import * as React from 'react';
 // import Box from '@mui/material/Box';
