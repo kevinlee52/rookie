@@ -20,6 +20,8 @@
     "@mui/icons-material": "^5.14.16",
     "@mui/material": "^5.14.16",
     "@mui/x-data-grid": "^6.18.0",
+    "@nivo/bar": "^0.83.1",
+    "@nivo/core": "^0.83.1",
     "eslint-config-prettier": "^9.0.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-tailwindcss": "^3.13.0",
